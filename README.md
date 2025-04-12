@@ -134,7 +134,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bdfl669/bdfl669/output/snake.svg" alt="Snake animation" />
+
 
 ###
 <picture>
