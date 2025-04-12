@@ -132,9 +132,6 @@
 
 ###
 
-<br clear="both">
-
-
 
 ###
 <picture>
