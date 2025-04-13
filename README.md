@@ -1,4 +1,4 @@
-<img src="githubbanner.png" alt="GitHub Banner" width="100%" />
+<img src="transparent_readmeBanner.png" alt="GitHub Banner" width="100%" />
 <h2 align="left">Hi 👋! My name is Nigel Okoth, and I'm a FullStack Software Developer from Kenya</h2>
 
 ###
